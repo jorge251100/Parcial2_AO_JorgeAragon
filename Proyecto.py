@@ -1,3 +1,5 @@
+#Este código ha sido probado y elaborado en colab
+
 import folium  #Libreria de mapas interactivos
 from scipy.spatial import Voronoi   #Librería para mapeo de areas de voronoi
 import numpy as np  #Facilita el trabajo con matrices
